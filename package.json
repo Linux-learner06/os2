@@ -6,9 +6,12 @@
   "repository": "git@github.com:Linux-learner06/os2.git",
   "author": "<Linux-learner06> <<ezizgithub@gmail.com>>",
   "license": "CC-BY-4.0",
-    "config": {
-	"commitizen": {
-	    "path": "cz-conventional-changelog"
-	}
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
     }
+  },
+  "dependencies": {
+    "@ibm/plex-math": "^1.1.0"
+  }
 }

@@ -33,6 +33,7 @@ bibliography:
   - bib/cite.bib
 csl: _resources/csl/gost-r-7-0-5-2008-numeric.csl
 ## Formats
+pdf-engine: lualatex
 format:
 ### Pdf output format
   pdf:
